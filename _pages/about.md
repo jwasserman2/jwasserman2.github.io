@@ -28,9 +28,9 @@ Software
 Research Leadership
 ======
 - Project leader (Undergraduate Research Program in Statistics, Winter 2024, University of Michigan)
- - Undergraduate researchers built hierarchical linear models for predicting student standardized test scores
+  - Undergraduate researchers built hierarchical linear models for predicting student standardized test scores
 - Co-mentor (Big Data Summer Institute, Summer 2023, University of Michigan)
- - Undergraduate researchers used data linkage techniques to predict tumor severity from imaging and clinical data 
+  - Undergraduate researchers used data linkage techniques to predict tumor severity from imaging and clinical data 
 
 Talks
 ======
