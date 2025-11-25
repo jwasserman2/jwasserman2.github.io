@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Joshua Wasserman"
   pronouns         : "he/him/his"
-  bio              : "Ph.D. Candidate in Statistics at the University of Michigan"
+  bio              : "Ph.D. Candidate, Department of Statistics, University of Michigan"
   location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  employer         : #
   uri              : # URL
   email            : "joshua.wasserman777@gmail.com" 
 
